@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         val numberButtons = arrayOf(
             R.id.nb1, R.id.nb2, R.id.nb3, R.id.nb4,
             R.id.nb5, R.id.nb6, R.id.nb7, R.id.nb8,
-            R.id.nb9 ,R .id.nb0
+            R.id.nb9 ,R .id.nb0, R.id.btJ 
         )
 
         for (buttonId in numberButtons) {
